@@ -1,0 +1,29 @@
+GAME NAME:
+
+Be_A_Man Game V1.0  (MADE BY TIANCHENG GONG)
+
+
+BRIEF DESCRIPTION: 
+
+Be_A_Man is a simple but interesting gba game. The player(yellow block) wants to survive, with a initial health as 10, as long as possible to get a higher score to prove he is a real man! The player is falling if he is not on a bar, but he is not safe even on the bar. The bars raise up at a constant speed and at the top there are sharp teeth to make damage to the player by -1 health each time. If the player falls dowm too much, he take the damage from the dark by -3 each time and then he get back to the original place. The game stops when the player has a 0 health, and then an evaluation will be given.
+
+
+CONTROL:
+
+ENTER: 	    START THE GAME
+SELECT:	    GO BACK TO THE MAIN MENU
+A:	    PAUSE
+B:          RESUME
+LEFT:	    THE PLAYER GOES LEFT
+RIGHT:      THE PLAYER GOES RIGHT
+
+
+EVALUATION:
+
+SCORE       DESCRIPTION
+0-49:	    30S! NEED PRACTICE
+50-99:      2MIN! HALF MAN
+100-199:    7MIN! REAL MAN
+200-299:    20MIN! SUPER MAN
+>300:	    TAISHUANGLE!
+
